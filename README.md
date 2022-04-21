@@ -1,5 +1,5 @@
 # Contact Manager Node.js
-This is a command-line contact management system app created using JavaScript. For now, this contact manager can add contacts into JSON files only. I will continue to develop this contact manager until it can perform other tasks, such as deleting contacts, updating contacts, and displaying a list of existing contacts. If you want to contribute to the development of this contact manager, you can click [here](https://github.com/daffaazhar/contact-manager#how-to-contribute).
+This is a command-line contact management system app created using JavaScript. For now, this contact manager can add contacts into JSON files only. I will continue to develop this contact manager until it can perform other tasks, such as deleting contacts, updating contacts, and displaying a list of existing contacts. If you want to contribute to the development of this contact manager, you can click [here](#how-to-contribute).
 
 ### Technology Used
 - JavaScript
