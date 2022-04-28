@@ -15,7 +15,7 @@ This is a command-line contact management system app created using JavaScript. F
 
 ### How To Contribute
 1. Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
-2. Clone the repository: `$ git clone https://github.com/daffaazhar/steve-jobs-tribute-page.git`.
-3. Create a new branch: `$ git checkout https://github.com/daffaazhar/steve-jobs-tribute-page/ -b name_for_new_branch`.
+2. Clone the repository: `$ git clone https://github.com/daffaazhar/contact-manager.git`.
+3. Create a new branch: `$ git checkout https://github.com/daffaazhar/contact-manager.git -b name_for_new_branch`.
 4. Make changes and test.
 5. Submit Pull Request with comprehensive description of changes.
